@@ -6,7 +6,7 @@ public class Real_Madrid {
 		System.out.println("¡Real Madrid!");
 		Resultado objResultado = new Resultado();
 		objResultado.resultado();
-
+		//Sergio
 	}
 
 }
